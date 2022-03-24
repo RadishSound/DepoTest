@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello world !
 test
+=======
+Hello world !
+>>>>>>> origin/ara_dev
